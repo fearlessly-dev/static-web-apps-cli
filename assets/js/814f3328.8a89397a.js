@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_www=self.webpackChunkdocs_www||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent Posts","items":[{"title":"Hello Static Web Apps CLI!","permalink":"/static-web-apps-cli/blog/welcome"}]}')}}]);
