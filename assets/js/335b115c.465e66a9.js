@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs_www=self.webpackChunkdocs_www||[]).push([[412],{6823:function(e){e.exports=JSON.parse('{"permalink":"/static-web-apps-cli/blog/tags/swa-cli","page":1,"postsPerPage":3,"totalPages":1,"totalCount":1,"blogDescription":"Release notes and announcements from the Azure Static Web Apps CLI team","blogTitle":"What\'s New in SWA CLI!"}')}}]);
