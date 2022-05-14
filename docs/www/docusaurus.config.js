@@ -11,9 +11,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  url: 'https://azure.github.io',  // Update for Org
+  url: 'https://fearlessly-dev.github.io',  // Update for Org https://azure.github.io
   baseUrl: '/static-web-apps-cli/',
-  organizationName: 'azure',       // Update for Org
+  organizationName: 'fearlessly-dev',       // Update for Org azure
   projectName: 'static-web-apps-cli', 
   deploymentBranch: `gh-pages`, 
 
@@ -154,7 +154,7 @@ const config = {
           },
         ],
         */
-        copyright: `Copyright © ${new Date().getFullYear()} Microsoft | Built with Docusaurus - Icons from Noun Project.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Microsoft | Built with Docusaurus and Iconcloud.design.`,
       }, 
       prism: {
         theme: lightCodeTheme,
