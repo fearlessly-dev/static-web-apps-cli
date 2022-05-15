@@ -3,9 +3,7 @@ sidebar_position: 4
 title: env vars
 ---
 
-
 # Environment Variables
-
 
 | Environment Variable          | Purpose                                                                            | Read Only? | Default Value |
 | ----------------------------- | ---------------------------------------------------------------------------------- | ---------- | ------------- |
